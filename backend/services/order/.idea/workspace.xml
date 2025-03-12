@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08d6e500-0931-43d5-a72f-884f3626c5ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/src/main/java/com/example/config_server/ConfigServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/src/main/resources/configurations/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/src/main/resources/configurations/customer-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/src/main/resources/configurations/discovery-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/src/main/resources/configurations/product-service.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config-server/src/test/java/com/example/config_server/ConfigServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/customer/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/customer/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/customer/CustomerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/customer/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/customer/CustomerRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/customer/CustomerResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/exeption/CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/handler/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../customer/src/main/java/com/example/ecommerce/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/category/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/exception/ProductPurchaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/handler/ErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/product/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/product/ProductMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/product/ProductPurchaseRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/product/ProductPurchaseResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/product/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/product/ProductRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/product/ProductResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/java/com/example/product/product/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/resources/db/migration/V1__init_database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product/src/main/resources/db/migration/V2__insert_data.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2tecGb5LHXLOoKZYrzBBbvT96BT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08d6e500-0931-43d5-a72f-884f3626c5ea" name="Changes" comment="" />
+      <created>1740715886134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740715886134</updated>
+      <workItem from="1740715887136" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
